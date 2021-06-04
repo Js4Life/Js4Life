@@ -30,7 +30,7 @@
 </a>
 <a href="https://github.com/js4life/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=js4life&hide=html&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=js4life&hide=html&layout=compact&theme=material-palenight&show_icons=true" />
 </a>
 
 <a href="https://github.com/js4life/ChatApp">
