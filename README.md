@@ -30,16 +30,16 @@
 </a>
 <a href="https://github.com/js4life/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=js4life&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=js4life&hide=javascript&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/js4life/github-readme-stats">
+<a href="https://github.com/js4life/ChatApp">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=js4life&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=js4life&repo=ChatApp&theme=material-palenight" />
 </a>    
 <a href="https://js4life.github.io/raghavendra/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=js4life&repo=Youtube&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=Youtube&theme=merko" />
 </a>
 
 
