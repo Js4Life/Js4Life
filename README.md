@@ -3,7 +3,7 @@
 
 ## I'm a Software Developer - Frontend , Backend, and PowerBI Designer!!
 
-- 🔭 Angular, ReactJS ,NodeJ.JS JavaScript , ES6, Typescript ,HTML , CSS ,React Native , Jquery , Expo ,React-Cli , Express, Typeorm,Mocha,Jasmine
+- 🔭 Angular, ReactJS ,NodeJ.JS JavaScript,ES6,Typescript,HTML,CSS,React Native,Jquery,Express,Typeorm,Mocha,Jasmine
 - 🌱 I’m currently learning everything on JavaScript.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn DevOps / AWS
