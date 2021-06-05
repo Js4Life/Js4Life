@@ -18,7 +18,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>  
-<code><img height="20" src="https://iconape.com/wp-content/png_logo_vector/microsoft-power-bi-logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png"></code>
 
 - 🔭 Angular, ReactJS ,NodeJS JavaScript,ES6,Typescript,HTML,CSS,React Native,Jquery,Express,Typeorm,Mocha,Jasmine
 - 🌱 I’m currently learning everything on JavaScript.
@@ -26,7 +26,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn DevOps / AWS
 - ⚡ Fun fact: I love to play cricket and play online games.
 
-📊 **This week I spent my time on**
+📊 **These days I spent my time on**
 
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
