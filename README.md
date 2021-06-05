@@ -26,7 +26,7 @@
 
 
 <a href="https://github.com/js4life/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=js4life&show_icons=true&include_all_commits=true&theme=material-palenight" alt="raghu's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=js4life&show_icons=true&include_all_commits=true&theme=material-palenight&custom_title=My Stats for this Year" alt="raghu's github stats" />
 </a>
 <a href="https://github.com/js4life/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
