@@ -11,7 +11,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
-- 🔭 Angular, ReactJS ,NodeJ.JS JavaScript,ES6,Typescript,HTML,CSS,React Native,Jquery,Express,Typeorm,Mocha,Jasmine
+- 🔭 Angular, ReactJS ,NodeJS JavaScript,ES6,Typescript,HTML,CSS,React Native,Jquery,Express,Typeorm,Mocha,Jasmine
 - 🌱 I’m currently learning everything on JavaScript.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn DevOps / AWS
