@@ -35,12 +35,12 @@
 
 <a href="http://raghu-node-v7-chatapp.herokuapp.com/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=js4life&repo=ChatApp&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=js4life&repo=ChatApp&theme=material-palenightborder_radius=25" />
 </a>  
 
 <a href="https://60b7d2213b27c721dba83109--practical-almeida-b9043b.netlify.app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=DummyKART&theme=radical&show_icons=true&border_radius=25&text_color=green&bg_color=3a7bd5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=DummyKART&theme=radical&show_icons=true&border_radius=25&text_color=green&bg_color=96deda" />
 </a>
 
 <a href="https://js4life.github.io/raghavendra/">
