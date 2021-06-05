@@ -40,7 +40,7 @@
 
 <a href="https://60b7d2213b27c721dba83109--practical-almeida-b9043b.netlify.app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=DummyKART&theme=radical&show_icons=true&border_radius=50&text_color=green&bg_color=6e48aa" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=DummyKART&theme=radical&show_icons=true&border_radius=25&text_color=green&bg_color=3a7bd5" />
 </a>
 
 <a href="https://js4life.github.io/raghavendra/">
@@ -50,7 +50,7 @@
 
 <a href="https://seasons-bice.vercel.app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=React&theme=radical&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=React&theme=radical&show_icons=true&border_radius=25" />
 </a>
 
 
