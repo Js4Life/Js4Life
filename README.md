@@ -17,7 +17,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png"></code>
+
 
 - 🔭 Angular, ReactJS ,NodeJS JavaScript,ES6,Typescript,HTML,CSS,React Native,Jquery,Express,Typeorm,Mocha,Jasmine
 - 🌱 I’m currently learning everything on JavaScript.
