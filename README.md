@@ -39,7 +39,7 @@
 </a>    
 <a href="https://js4life.github.io/raghavendra/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=Youtube&theme=merko&show_icons=true&custom_title=An Youtube Clone :)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=Youtube&theme=merko&show_icons=true&title=An Youtube Clone :)" />
 </a>
 
 <a href="https://seasons-bice.vercel.app/">
