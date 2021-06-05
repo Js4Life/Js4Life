@@ -35,7 +35,7 @@
 
 <a href="http://raghu-node-v7-chatapp.herokuapp.com/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=js4life&repo=ChatApp&theme=material-palenightborder_radius=25" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=js4life&repo=ChatApp&theme=material-palenight&border_radius=25" />
 </a>  
 
 <a href="https://60b7d2213b27c721dba83109--practical-almeida-b9043b.netlify.app/">
