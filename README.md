@@ -36,7 +36,13 @@
 <a href="http://raghu-node-v7-chatapp.herokuapp.com/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=js4life&repo=ChatApp&theme=material-palenight" />
-</a>    
+</a>  
+
+<a href="https://60b7d2213b27c721dba83109--practical-almeida-b9043b.netlify.app/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=DummyKART&theme=radical&show_icons=true&border_radius=50&text_color=green&bg_color=6e48aa" />
+</a>
+
 <a href="https://js4life.github.io/raghavendra/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=Youtube&theme=merko&show_icons=true" />
@@ -47,10 +53,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=React&theme=radical&show_icons=true" />
 </a>
 
-<a href="https://seasons-bice.vercel.app/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=DummyKART&theme=radical&show_icons=true&border_radius=50&text_color=green&bg_color=6e48aa" />
-</a>
+
 
 
 
