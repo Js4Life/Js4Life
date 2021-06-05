@@ -18,9 +18,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>  
-<code><img height="20" src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png"></code>
 
-- 🔭 Angular, ReactJS ,NodeJS JavaScript,ES6,Typescript,HTML,CSS,React Native,Jquery,Express,Typeorm,Mocha,Jasmine
+- 🔭 Angular, ReactJS ,NodeJS JavaScript,ES6,Typescript,HTML,CSS,React Native,Jquery,Express,TypeORM,Mocha,Jasmine
 - 🌱 I’m currently learning everything on JavaScript.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn DevOps / AWS
