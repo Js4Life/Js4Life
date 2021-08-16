@@ -73,7 +73,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=React&theme=radical&show_icons=true&border_radius=25" />
 </a>
 
-<a href="https://60cc24e110070169cb4c9992--infallible-lewin-9d59ca.netlify.app/">
+<a href="https://raghu-todo.netlify.app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=todo&theme=material-palenight&show_icons=true&border_radius=25" />
 </a>
