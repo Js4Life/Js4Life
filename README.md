@@ -41,6 +41,11 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=js4life&hide=html&layout=compact&theme=material-palenight&show_icons=true" />
 </a>
 
+<a href="https://bangalore-trav.netlify.app/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=js4life&repo=NearByHotel&theme=material-palenight&border_radius=25" />
+</a>  
+
 <a href="http://raghu-node-v7-chatapp.herokuapp.com/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=js4life&repo=ChatApp&theme=material-palenight&border_radius=25" />
