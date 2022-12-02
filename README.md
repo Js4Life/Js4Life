@@ -19,10 +19,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>  
 
-- 🔭 Angular, ReactJS ,NodeJS JavaScript,ES6,Typescript,HTML,CSS,React Native,Jquery,Express,TypeORM,Mocha,Jasmine
+- 🔭 Angular, ReactJS ,NodeJS JavaScript,ES6,GraphQL,Typescript,HTML,CSS,React Native,Jquery,Express,TypeORM,Mocha,Jasmine
 - 🌱 I’m currently learning everything on JavaScript.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn DevOps / AWS
+- 🥅 2023 Goals: Contribute more to Open Source projects and learn DevOps / AWS /GCP
 - ⚡ Fun fact: I love to play cricket and play online games.
 
 📊 **These days I spent my time on**
@@ -34,7 +34,8 @@
 
 
 <a href="https://js4life.github.io/raghavendra/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=js4life&show_icons=true&include_all_commits=true&theme=material-palenight&custom_title=My Stats for this Year" alt="raghu's github stats" />
+  https://github-readme-stats.vercel.app/api?username=js4life
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=js4life" alt="raghu's github stats" />
 </a>
 <a href="https://js4life.github.io/raghavendra/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
