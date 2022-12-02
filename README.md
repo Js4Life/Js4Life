@@ -34,7 +34,6 @@
 
 
 <a href="https://js4life.github.io/raghavendra/">
-  https://github-readme-stats.vercel.app/api?username=js4life
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=js4life" alt="raghu's github stats" />
 </a>
 <a href="https://js4life.github.io/raghavendra/">
