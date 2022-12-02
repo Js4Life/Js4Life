@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning everything on JavaScript.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects and learn DevOps / AWS /GCP
-- ⚡ Fun fact: I love to play cricket and play online games.
+- ⚡ Fun fact: I love to play cricket and play online games and Speinding more time myself
 
 📊 **These days I spent my time on**
 
