@@ -46,6 +46,17 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=js4life&repo=NearByHotel&theme=radical&border_radius=25" />
 </a>  
 
+<a href="https://sreemanjunatharicemills.netlify.app/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=Ecommerce&theme=radical&show_icons=true&border_radius=25" />
+</a>
+
+
+<a href="https://creatingmemories.netlify.app/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=Memories&theme=radical&show_icons=true&border_radius=25" />
+</a>
+
 <a href="http://raghu-node-v7-chatapp.herokuapp.com/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=js4life&repo=ChatApp&theme=material-palenight&border_radius=25" />
@@ -53,15 +64,8 @@
 
 
 
-<a href="https://sreemanjunatharicemills.netlify.app/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=Ecommerce&theme=radical&show_icons=true&border_radius=25" />
-</a>
 
-<a href="https://creatingmemories.netlify.app/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=js4life&repo=Memories&theme=radical&show_icons=true&border_radius=25" />
-</a>
+
 
 
 
